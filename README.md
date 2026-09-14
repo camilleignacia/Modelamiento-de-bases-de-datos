@@ -8,6 +8,7 @@ Autora: Camila Sepúlveda Marcos.
 Carrera: Analista Programador Computacional — Duoc UC.
 
 ## Contenido
+- Actividad Sumativa 2: Transformando el MER en Modelo Relacional.
 - Actividad Formativa 3: Modelando y normalizando datos.
 - Actividad Formativa 2: Representando procesos de Modelamiento Entidad-Relación (MER).
 - Actividad Sumativa 1: Modelando jerarquía entre entidades.
