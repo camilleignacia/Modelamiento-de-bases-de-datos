@@ -12,3 +12,4 @@ Carrera: Analista Programador Computacional — Duoc UC.
 - Actividad Formativa 3: Modelando y normalizando datos.
 - Actividad Formativa 2: Representando procesos de Modelamiento Entidad-Relación (MER).
 - Actividad Sumativa 1: Modelando jerarquía entre entidades.
+- Actividad Sumativa 3: Construyendo una Base de Datos a partir de un Modelo Relacional normalizado con sentencias SQL.
